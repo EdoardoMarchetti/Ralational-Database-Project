@@ -7,7 +7,6 @@ The data reported in the examples are syntactic data generated thanks to [mockar
 
 ## CONCEPTUAL DESIGN
 * **Collection of requirements**: The collection of requirements means the complete identification of the problems that the database to be created must solve and the characteristics that this database must have following the querying of the client of the database.
-* **Collection of requirements**: The collection of requirements means the complete identification of the problems that the database to be created must solve and the characteristics that this database must have following the querying of the client of the database.
 * **Specification analysis**: The analysis of the specifications consists in the clarification and organization of the information collected during the interview. The document is decomposed into groups of homogeneous sentences, relating to the same concepts.
 * **Glossary of main terms**: The glossary of terms that is presented is intended to facilitate the understanding and decomposition of the specifications as well as the identification of the concepts of greatest interest.
 * **List of operations**: The list of main operations for the database completes the preliminary phase of the conceptual design. The information and the frequency with which these operations are carried out become decisive in the logical design phase in terms of optimizing the information to be represented.
